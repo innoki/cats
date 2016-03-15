@@ -1,4 +1,5 @@
-# INNOKI (C)all-To-(A)c(t)ion (s)implified - beyond the point of usefulness
+## INNOKI *C*all-To-*A*c*t*ion *s*implified -
+#### beyond the point of usefulness
 
 Provides a somewhat hidden storage API with an utmost simple interface:
 
