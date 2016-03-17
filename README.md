@@ -18,4 +18,8 @@ POST /cats/{your-keywords-here}?keyA=valueA&keyB=valueB
 # Examples
 GET  /cats/my/super_great/blogpost.gif?browser=moz&tz=0
 GET  /cats/2016/02/30/woopsie.html?did=you&spot=the&mistake=hell+yeah
+
+# Will dump (note that query param ordering is not guaranteed)
+my,super_great,blogpost|browser=moz,tz=0
+2016,02,30,woopsie|did=you,mistake=hell yeah,spot=the
 ```
