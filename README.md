@@ -1,6 +1,8 @@
 ## INNOKI *C*all-To-*A*c*t*ion *s*implified -
 #### beyond the point of usefulness
 
+[![Build Status](https://travis-ci.org/innoki/cats.svg?branch=master)](https://travis-ci.org/innoki/cats)
+
 Provides a somewhat hidden storage API with an utmost simple interface:
 
 ```
